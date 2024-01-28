@@ -1,4 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | React WikiCountries
 
@@ -6,58 +5,10 @@
 
 After spending too much time on GitHub, you found a [JSON dataset of countries](https://ih-countries-api.herokuapp.com/countries), and you decided to use it to create your Wikipedia of countries!
 
-<p align="center">
-  <img src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-wiki-countries-1.gif" alt="Example - Finished LAB" />
-</p>
-
-<br>
 
 
-## Setup
-
-- Fork this repo
-- Clone this repo
-- Open the LAB and start:
-
-```bash
-cd lab-wiki-countries
-npm install
-npm start
-```
-
-<br>
 
 
-## Submission
-
-- Upon completion, run the following commands:
-
-  ```bash
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Create a Pull Request so that your TAs can check your work.
-
-<br>
-
-
-## Getting Started
-
-Clean the `App.js` component so that it has the following structure:
-
-```jsx
-// src/App.js
-import "./App.css";
-
-function App() {
-  return <div className="App"></div>;
-}
-export default App;
-```
-
-<br>
 
 
 ## Instructions 
