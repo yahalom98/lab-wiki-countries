@@ -412,19 +412,4 @@ The effect should run after the initial render, and each time the URL parameter 
    git push
    ```
 
-   2. **You do not have permission to push to the repository:** If you have cloned the repository directly from the main Ironhack repository without making a *Fork* first, you do not have write access to the repository.
-   To check which remote repository you have cloned, run the following terminal command from the project folder:
-
-   ```bash
-   git remote -v
-   ```
-
-  If the link shown is the same as the main Ironhack repository, you will need to fork the repository to your GitHub account first, and then clone your fork to your local machine to be able to push the changes.
-
-  Note: You may want to make a copy of the code you have locally, to avoid losing it in the process.
-
-  <br>
-
-  [Back to top](#faqs)
-
 </details>
