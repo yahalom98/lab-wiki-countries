@@ -397,19 +397,3 @@ The effect should run after the initial render, and each time the URL parameter 
 
 </details>
 
-<details>
-  <summary>I am unable to push changes to the repository. What should I do?</summary>
-
-  <br>
-
-  There are a couple of possible reasons why you may be unable to *push* changes to a Git repository:
-
-  1. **You have not committed your changes:** Before you can push your changes to the repository, you need to commit them using the `git commit` command. Make sure you have committed your changes and try pushing again. To do this, run the following terminal commands from the project folder:
-
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   git push
-   ```
-
-</details>
